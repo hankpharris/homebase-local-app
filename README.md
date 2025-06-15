@@ -1,6 +1,6 @@
 # Interactive Python GUI Application
 
-A simple interactive GUI application built with Python and PyQt6.
+This is a simple local app built with python. It was built by myself, Henry Pharris, with icons by Icons8. It uses a bootleg justwatch api along with control macros to automatically search for and open videos and movies to your current position. Im unsure if this violates streaming services' TOS so use at your own risk.
 
 ## Setup
 
